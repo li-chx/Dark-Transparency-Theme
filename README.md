@@ -1,5 +1,5 @@
 # Dark Transparency Theme for VS 2022
-Visual Studio 2022 Dark Transparency Theme for anyone prefer dark mode.  
+Dark Transparency Theme for anyone prefer dark mode. Only for version 2022.  
 For background please install [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) and set "Expand to IDE" as true.
 
 ## Preview
